@@ -2,3 +2,4 @@
 Factory implementado en una importación de catálogos de entidades. 
 Cada catálogo corresponde a un objeto a importar el cual antes de ser almacenado en la bd se validará con restricciones propias de cada uno de ellos.
 
+El main se encuentra en com.application.patrones.Main
